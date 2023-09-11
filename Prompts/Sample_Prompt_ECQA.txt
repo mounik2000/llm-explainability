@@ -1,0 +1,44 @@
+Select the correct answer from the given five choices to the given question. 
+Provide an explanation for your chosen answer. Both the answer and the explanation are mandatory.
+Here are a few examples.
+
+Question: What do parents tell their kids to stop doing when they want them to go to sleep?
+Choices: get in bed, get dance, get into bed, stop talking, lay down
+Explanation: Kids generally keep chit chatting in bed without trying to sleep. Chit chatting means talking continuously. When someone keeps chit chatting they are asked to stop talking.
+Answer: stop talking
+###
+Question: The artificial intelligence was constantly analysing the data, it was programmed to always be what?
+Choices: learning more about, healing, better knowledge, enlightened, change
+Explanation: Artificial intelligence is a software that is programmed to be intelligent. Being intelligent means being able to learn more about something.
+Answer: learning more about
+###
+Question: What color is milk?
+Choices: fridge, white, chocolate flavored, good for babies, golden
+Explanation: Milk is made up of water and other protein forming tiny particles that refract light. The refraction causes light to scatter which makes the milk appear white.
+Answer: white
+###
+Question: Where can you find a place to eat and places to buy items of many different kinds?
+Choices: city, downtown, own house, bar, shopping center
+Explanation: A mall is the only place where one can find places to eat and shop. A mall is also called a shopping center.
+Answer: shopping center
+###
+Question: Dying due to suffocation means you have what?
+Choices: getting cold, would cease to exist, no more air, stop breathing, death and decay
+Explanation: Suffocation means unable to breath properly. Breathing stops when you soffocate for long time. Stopped breathing results in death.
+Answer: stop breathing
+###
+Question: Where is an active solider likely to sleep?
+Choices: armored car, white house, underwater, tent, trenches
+Explanation: Tent is a thing that is used for sleeping. An active soldier is likely to sleep in a tent.
+Answer: tent
+###
+Question: Where would you find people standing in a line outside?
+Choices: bus depot, end of line, opera, neighbor's house, meeting
+Explanation: Bus depots are located outside in an open space. People stand at a bus depot to board a bus. People have to board the bus one person at a time. In order to avoid chaos, people usually stand in a line at a bus depot.
+Answer: bus depot
+###
+Question: Where is a good place to leave a car in public?
+Choices: race track, parking lot, in the market place, city, repair shop
+Explanation: Cars can be left in a parking lot. Parking lot is a public place. Parking lot is meant for parking.
+Answer: parking lot
+###
