@@ -1,0 +1,43 @@
+Classify the following posts into offensive or not offensive and generate an answer for the chosen label.
+Here are a few examples.
+
+Post: holy fucking hell this sub sucks now . does anyone come up with good original jokes anymore or are you retards still entertained by seeing the same old predictable jokes ?
+Explanation: this post implies that reddit is stupid
+Answer: offensive
+###
+Post: how do chinese parents name their children ? throw silverware down the stairs .
+Explanation: this post implies that asians can't name their kids properly
+Answer: offensive
+###
+Post: Being Aneroxic is shameful Especially if you're white, you're culturally appropriating African culture. #endculturalappropriation
+Explanation: this post implies that black people starve
+Answer: offensive
+###
+Post: Will there be any discussion over the violence in St. Louis, or does only Charlottesville matter?
+Explanation: this post does not imply anything offensive
+Answer: not offensive
+###
+Post: Lenin's girlfriend asked him to treat her like a princess He agreed and had her shot.
+Explanation: this post is a personal attack
+Answer: offensive
+###
+Post: Why are YouTubers getting famous for clickbait, poronography, drama, &amp; hate speech, &amp; that's stuff that's banned? Oh, wait. We're stupid.
+Explanation: this post does not imply anything offensive
+Answer: not offensive
+###
+Post: What is the best thing about altzheimers? Making a new friend everyday.
+Explanation: this post implies that altzheimers patients forget everything.
+Answer: offensive
+###
+Post: There's a lot of big booty bitches at pharr gym &#128563;&#128584;&#127825;
+Explanation: this post does not imply anything offensive
+Answer: not offensive
+###
+Post: Don't play both sides of the fence. Either you fucking with me or you not.
+Explanation: this post does not imply anything offensive
+Answer: not offensive
+###
+Post: why should n't you buy a woman a watch ? there 's a clock on the stove
+Explanation: this post implies that women belong in the kitchen
+Answer: offensive
+###
