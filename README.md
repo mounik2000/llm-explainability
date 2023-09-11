@@ -15,7 +15,7 @@ The prompts are given in the prompts folder
 
 ## Computing the scores
 
-Run the ipynb jupyter notebooks with appropriate file name changes in the fileio processing steps. 
+Run the ipynb jupyter notebooks with appropriate file name changes in the file i/o processing steps. 
 
 Any issues in running the code, contact me at vvssmounik@gmail.com
 
